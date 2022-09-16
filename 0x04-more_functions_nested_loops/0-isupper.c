@@ -1,8 +1,6 @@
 #include"main.h"
-
 #include <stdio.h>
 
- 
 /** 
  * _isupper - function to check if
  *
@@ -13,9 +11,7 @@
  * Return: returns 1 if `c` is uppercase
  *
  * otherwise always 0 (Success)
- *
  */
-
 
 int _isupper(int c)
 
